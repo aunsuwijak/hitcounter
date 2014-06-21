@@ -3,8 +3,10 @@ hitcounter
 
 Page hitcounter in Rails using impressionist gem
 
-example
+run bundle install to install impressionist
 
-$ bundle install # to install impressionist
+	$ bundle install # to install 
 
-$ rake db:migrate
+migrate db to create impressionist table
+
+	$ rake db:migrate
